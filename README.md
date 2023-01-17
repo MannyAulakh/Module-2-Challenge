@@ -20,7 +20,9 @@ Page is live on GitHub pages: [https://mdwag316.github.io/Module-2-Challenge/](h
 
 ## Image
 
-![Mod 1 Preview](https://github.com/Mdwag316/Module-3-Challenge/blob/main/Develop/assets/images/Screenshot%202023-01-12%20182549.png?raw=true)
+![Mod 2 Preview](https://github.com/Mdwag316/Module-2-Challenge/blob/main/Module-2-Challenge/images/1.png?raw=true)
+![Mod 2 Preview](https://github.com/Mdwag316/Module-2-Challenge/blob/main/Module-2-Challenge/images/2.png?raw=true)
+![Mod 2 Preview](https://github.com/Mdwag316/Module-2-Challenge/blob/main/Module-2-Challenge/images/3.png?raw=true)
 
 ## Usage
 
